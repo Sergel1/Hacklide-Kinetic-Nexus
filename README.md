@@ -1,7 +1,7 @@
 # Hacklide-Kinetic-Nexus
 # Kinetic Nexus
 
-![J1 locking joint assembly](assets/J1_asembly.png)
+![2D visualization](assets/2D Visualization with tripod.jpg)
 
 **Kinetic Nexus** is a SolidWorks CAD project for a compact, four-stage hexagonal telescoping support system designed for FDM printing in PETG. The current milestone includes the complete T1-T4 tube set and a modeled J1 locking-joint prototype.
 
