@@ -1,5 +1,4 @@
 # Hacklide-Kinetic-Nexus
-# Kinetic Nexus
 
 assets/hero-j1-assembly.png
 
