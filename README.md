@@ -1,2 +1,2 @@
 # Hacklide-Kinetic-Nexus
-week to hacklife product
+This project was menat to e  modular selfie stick, 
