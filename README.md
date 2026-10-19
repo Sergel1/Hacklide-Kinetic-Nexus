@@ -160,7 +160,9 @@ The STEP files provide editable solid geometry for CAD software that cannot open
 ## Documentation
 
 - [`JOURNAL.md`](JOURNAL.md) records project development.
-- [`BOM.csv`](BOM.csv) contains the current bill of materials.
+- BOM.csv is reserved for the project bill of materials and will be completed as hardware and manufacturing requirements are finalized.
+- ![Uploading image.png…]()
+
 - [`docs/`](docs/) contains the build specification, handoff document, and equation notes.
 
 ## License
